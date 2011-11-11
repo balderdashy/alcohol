@@ -15,7 +15,8 @@ Usage:
 Put the taglib groovy file in the taglib directory of your grails project.
 
 Then in your view:
-<g:alcohol date="${uglyDate}"></g:alcohol>
+
+`<g:alcohol date="${uglyDate}"></g:alcohol>`
 
 
 
