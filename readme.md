@@ -21,7 +21,8 @@ Then in your view:
 
 
 ---------
-Pipeline:
+Roadmap:
 ---------
 - overload the dateFormat taglib to harness its ju-ju
 - support for date differences (2 seconds ago)
+- support for other platforms and languages, starting with Javascript
